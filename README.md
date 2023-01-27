@@ -2,4 +2,4 @@
 
 Dynamic programming implementation in Python for ESPN's Eliminator Challenge
 
-All data from 2021-2022 NFL season
+prob_matrix not defined for 2022-23 NFL season
